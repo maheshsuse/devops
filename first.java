@@ -1,4 +1,4 @@
-for testing purpose we created this file
+added @release log for testing purpose we created this file
 
 added secound line
 
